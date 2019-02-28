@@ -1,0 +1,6 @@
+﻿  Building Custom Rule F:/glfw-master/tests/CMakeLists.txt
+  CMake does not need to re-run because F:/Cmake Build/tests/CMakeFiles/generate.stamp is up-to-date.
+  opacity.c
+  glad.c
+  Generating Code...
+  opacity.vcxproj -> F:\Cmake Build\tests\Debug\opacity.exe

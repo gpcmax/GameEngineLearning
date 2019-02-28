@@ -1,0 +1,6 @@
+﻿  Building Custom Rule F:/glfw-master/examples/CMakeLists.txt
+  CMake does not need to re-run because F:/Cmake Build/examples/CMakeFiles/generate.stamp is up-to-date.
+  boing.c
+  glad.c
+  Generating Code...
+  boing.vcxproj -> F:\Cmake Build\examples\Debug\boing.exe

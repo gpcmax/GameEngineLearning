@@ -1,0 +1,7 @@
+﻿  Building Custom Rule F:/glfw-master/tests/CMakeLists.txt
+  CMake does not need to re-run because F:/Cmake Build/tests/CMakeFiles/generate.stamp is up-to-date.
+  windows.c
+  getopt.c
+  glad.c
+  Generating Code...
+  windows.vcxproj -> F:\Cmake Build\tests\Debug\windows.exe
